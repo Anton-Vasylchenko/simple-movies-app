@@ -1,0 +1,9 @@
+.item-detail {
+  display: flex;
+  padding: 1rem !important;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.527);
+}
+.item-img {
+  height: 300px;
+  margin-right: 20px;
+}

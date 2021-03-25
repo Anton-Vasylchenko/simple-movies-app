@@ -1,0 +1,11 @@
+.error-indicator {
+    text-align: center;
+    width: 100%;
+    color: brown;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.527);
+}
+
+.boom {
+    display: block;
+    margin: auto;
+}

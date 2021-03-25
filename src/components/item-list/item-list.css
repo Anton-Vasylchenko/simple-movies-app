@@ -1,0 +1,36 @@
+.item-list {
+  margin: 0px;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.527);
+  text-align: center;
+  background: #303030;
+  border-radius: 5px;
+}
+.item-list {
+  padding-left: 0px;
+  padding-top: 20px;
+}
+
+.item-list li {
+  width: 200px;
+  display: inline-block;
+  margin: 3px;
+  border: 1px solid rgba(128, 128, 128, 0.342) !important;
+  border-radius: 5px;
+  vertical-align: top;
+}
+
+.item-list-img {
+  width: 80%;
+  border-radius: 10px;
+}
+
+.item-list-name {
+  text-align: center;
+  display: block;
+  min-height: 40px;
+}
+
+.item-list li:hover {
+  background: rgb(35, 16, 117);
+  cursor: pointer;
+}
