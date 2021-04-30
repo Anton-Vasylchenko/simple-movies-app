@@ -1,6 +1,6 @@
 # ABOUT THE PROJECT
 
-App where you can see the list of popular daily movies and people
+An application where you can see the list of popular daily movies and popular people
 
 Used technologies: React, Bootstrap and The Movie Database Api
 
